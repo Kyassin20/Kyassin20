@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kyassin20
-- 👀 I’m interested in learn Spanish language 
-- 🌱 I’m currently learning is Arabic 
-- 💞️ I’m looking to collaborate on your program 
-- 📫 How to reach me ...
+- 👀 I’m interested to learn Spanish language 
+- 🌱 I’m currently learning is Arabic  
 
 <!---
 Kyassin20/Kyassin20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
